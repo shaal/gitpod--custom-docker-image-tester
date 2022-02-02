@@ -1,2 +1,2 @@
 # Image was generated with - https://github.com/shaal/DrupalPod/tree/optimized-docker-image/.gitpod/images
-image: drupalpod/drupalpod-gitpod-base:20220202-optimized
+image: drupalpod/drupalpod-gitpod-base:20211116-ready-made-envs
